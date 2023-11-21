@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/polyperfect/Low Poly Ultimate Pack/02 - Worlds.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
